@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Xavier Chanthavong, I'm a freelance react developer, app developer on the @protocol and a computer science student at Ontario Tech University.
+Feel free to reach out to me if you have questions about my work.
+
+
 <!--
 **XavierChanth/XavierChanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
