@@ -3,7 +3,7 @@
 My name is Xavier Chanthavong, I'm a freelance react developer, app developer on the @protocol and a computer science student at Ontario Tech University.
 Feel free to reach out to me if you have questions about my work.  
 
-Notice: Many of the repositories for templates were from when I was learning, they are not up to date nor would I use them today. I do not recommend using them beyond for reference purposes. Cheers!  
+Notice: Many of my archived repositories were from when I was learning, they are not up to date nor would I use them today. I do not recommend using them beyond for reference purposes. Cheers!  
 
 
 <!--
