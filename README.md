@@ -27,7 +27,7 @@ My name is Xavier Chanthavong, and I'm ...
 
 ## 📃 Featured Projects
 
-Most of my work is closed source; here are my favourites of the open source work.
+Most of my work is closed source, but here are my favourites of the open source work.
 
 ### Windows Terminal Arc+
 
