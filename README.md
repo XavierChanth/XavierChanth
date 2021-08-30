@@ -27,6 +27,8 @@ My name is Xavier Chanthavong, and I'm ...
 
 ## 📃 Featured Projects
 
+Most of my work is closed source; here are my favourites of the open source work.
+
 ### Windows Terminal Arc+
 
 - The vscode Arc+ theme for windows terminal
