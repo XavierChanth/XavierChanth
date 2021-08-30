@@ -2,10 +2,16 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=XavierChanth&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
-My name is Xavier Chanthavong, I'm a freelance react developer, app developer on the @protocol and a computer science student at Ontario Tech University.
-Feel free to reach out to me if you have questions about my work.  
+## 👋 Hello!
 
-## Featured Projects
+My name is Xavier Chanthavong, and I'm ...
+
+💙 A technical consultant for The @ Company.
+💻 A freelance React/NodeJs Software Developer.
+😎 The president of the Computer Science Club at Ontario Tech University.
+📚 Studying for a B.Sc. Computer Science at Ontario Tech University.
+
+## 📃 Featured Projects
 
 About some of my feature projects!
 
@@ -21,15 +27,14 @@ About some of my feature projects!
 
 ### dess
 
-- My fork of The @ Company's DESS installation scripts
+- My fork of The @ Company's dess repository
 - I added multi distro support
 - I reduced the number of steps to install
 
-### at_collab
+### at_app
 
-- A library on the @platform that allows developers to enable P2P E2EE data collaboration
-- Developers define their data models and create providers to consume the library
-
+- My fork of The @ Company's at_app repository
+- An extension of `flutter create` to help you get started building an @platform application.
 
 
 
