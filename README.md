@@ -6,10 +6,10 @@
 
 My name is Xavier Chanthavong, and I'm ...
 
-💙 A technical consultant for The @ Company.
-💻 A freelance React/NodeJs Software Developer.
-😎 The president of the Computer Science Club at Ontario Tech University.
-📚 Studying for a B.Sc. Computer Science at Ontario Tech University.
+💙 A technical consultant for The @ Company.  
+💻 A freelance React/NodeJs Software Developer.  
+😎 The president of the Computer Science Club at Ontario Tech University.  
+📚 Studying for a B.Sc. Computer Science at Ontario Tech University.  
 
 ## 📃 Featured Projects
 
