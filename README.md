@@ -13,8 +13,6 @@ My name is Xavier Chanthavong, and I'm ...
 
 ## 📃 Featured Projects
 
-About some of my feature projects!
-
 ### Windows Terminal Arc+
 
 - The vscode Arc+ theme for windows terminal
