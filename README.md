@@ -1,8 +1,7 @@
 # XavierChanth
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xavierchanth&show_icons=true&locale=en&theme=tokyonight&hide_border=true)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=XavierChanth&theme=tokyonight&hide_border=true)
-
+<p align="center"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xavierchanth&show_icons=true&locale=en&theme=tokyonight&hide_border=true"/></p>
+<p align="center"><img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=XavierChanth&theme=tokyonight&hide_border=true"/></p>
 <p align="center"><img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=xavierchanth&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true"/></p>
 
 ## 👋 Hello!
