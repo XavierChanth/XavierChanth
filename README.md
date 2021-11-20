@@ -3,7 +3,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xavierchanth&show_icons=true&locale=en&theme=tokyonight&hide_border=true)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=XavierChanth&theme=tokyonight&hide_border=true)
 
-<div style="margin: 0 auto;"><img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=xavierchanth&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true"/></div>
+<p align="center"><img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=xavierchanth&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true"/></p>
 
 ## 👋 Hello!
 
