@@ -1,19 +1,20 @@
-# XavierChanth
 
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xavierchanth&show_icons=true&locale=en&theme=tokyonight&hide_border=true"/>
-<img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=XavierChanth&theme=tokyonight&hide_border=true"/>
-<img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=xavierchanth&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true"/>
+# 👋 Hi There!
 
-## 👋 Hello!
+### My name is Xavier Chanthavong, and I'm ...
 
-My name is Xavier Chanthavong, and I'm ...
-
-💙 A technical consultant for The @ Company.  
+🧡 A technical consultant for The @ Company.  
 💻 A freelance React/NodeJs Software Developer.  
+📚 Studying Computer Science at Ontario Tech University.  
 😎 President of the Computer Science Club at Ontario Tech University.  
-📚 Studying for a B.Sc. Computer Science at Ontario Tech University.  
 
-## Technical Skills
+## 📈 Github Stats
+
+
+![](https://github-readme-stats.vercel.app/api?username=xavierchanth&show_icons=true&locale=en&theme=tokyonight&hide_border=true&line_height=29&hide=stars)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=xavierchanth&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&hide=html,dockerfile)
+
+## 🛠 Tools and Tech
 
 - Flutter/Dart
 - React/NodeJS
@@ -27,44 +28,9 @@ My name is Xavier Chanthavong, and I'm ...
 - Agile Development
 
 
-## 📃 Featured Projects
+## 📌 Featured Projects
 
-Most of my work is closed source, but here are my favourites of the open source work.
-
-### Windows Terminal Arc+
-
-- The vscode Arc+ theme for windows terminal
-
-### arch-setup
-
-- Automation script to install my entire development setup on arch linux
-- Installs a full flutter/@platform stack [https://atsign.dev]
-- Installs a full nodejs stack
-
-### dess
-
-- My fork of The @ Company's dess repository
-- I added multi distro support
-- I reduced the number of steps to install
-
-### at_app
-
-- My fork of The @ Company's at_app repository
-- An extension of `flutter create` to help you get started building an @platform application.
-
-
-
-<!--
-**XavierChanth/XavierChanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/xavierchanth/at_app"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierchanth&theme=tokyonight&hide_border=true&repo=at_app"/></a>
+<a href="https://github.com/xavierchanth/dess"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierchanth&theme=tokyonight&hide_border=true&repo=dess"/></a>
+<a href="https://github.com/xavierchanth/atsign.dev"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierchanth&theme=tokyonight&hide_border=true&repo=atsign.dev"/></a>
+<a href="https://github.com/xavierchanth/arch-setup"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierchanth&theme=tokyonight&hide_border=true&repo=arch-setup"/></a>
