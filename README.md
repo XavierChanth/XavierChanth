@@ -3,8 +3,8 @@
 
 ### My name is Xavier Chanthavong, and I'm ...
 
->🧡 A technical consultant for The @ Company.  
-💻 A freelance React/NodeJs Software Developer.  
+>🧡 A software developer at The @ Company.  
+💻 A freelance I/T consultant.  
 📚 Studying Computer Science at Ontario Tech University.  
 😎 President of the Computer Science Club at Ontario Tech University.  
 
