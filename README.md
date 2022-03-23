@@ -3,9 +3,8 @@
 
 ### My name is Xavier Chanthavong, and I'm ...
 
->🧡 A software developer at The @ Company.  
-💻 A freelance I/T consultant.  
-📚 Studying Computer Science at Ontario Tech University.  
+>🧡 A developer advocate at The @ Company.  
+💻 Studying Computer Science at Ontario Tech University.  
 😎 President of the Computer Science Club at Ontario Tech University.  
 
 ## 📈 Github Stats
