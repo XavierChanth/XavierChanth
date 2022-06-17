@@ -36,5 +36,5 @@
 
 <a href="https://github.com/xavierchanth/at_app"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierchanth&theme=tokyonight&hide_border=true&repo=at_app"/></a>
 <a href="https://github.com/xavierchanth/dess"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierchanth&theme=tokyonight&hide_border=true&repo=dess"/></a>
-<a href="https://github.com/xavierchanth/atsign.dev"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierchanth&theme=tokyonight&hide_border=true&repo=atsign.dev"/></a>
+<a href="https://github.com/xavierchanth/atsign.dev-3.0"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierchanth&theme=tokyonight&hide_border=true&repo=atsign.dev-3.0"/></a>
 <a href="https://github.com/xavierchanth/arch-setup"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierchanth&theme=tokyonight&hide_border=true&repo=arch-setup"/></a>
