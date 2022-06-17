@@ -3,7 +3,7 @@
 
 ### My name is Xavier Chanthavong, and I'm ...
 
->🧡 A developer advocate at The @ Company.  
+>🧡 A developer experience engineer at [Atsign](https://atsign.com)  
 💻 Studying Computer Science at Ontario Tech University.  
 😎 President of the Computer Science Club at Ontario Tech University.  
 
