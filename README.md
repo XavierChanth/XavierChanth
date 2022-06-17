@@ -5,7 +5,6 @@
 
 >🧡 A developer experience engineer at [Atsign](https://atsign.com)  
 💻 Studying Computer Science at Ontario Tech University.  
-😎 President of the Computer Science Club at Ontario Tech University.  
 
 ## 📈 Github Stats
 
