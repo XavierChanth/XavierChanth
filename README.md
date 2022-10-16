@@ -3,8 +3,8 @@
 
 ### My name is Xavier Chanthavong, and I'm ...
 
->🧡 A developer experience engineer at [Atsign](https://atsign.com).  
-💻 Studying Data Science at Ontario Tech University (with a Math minor!).  
+>🧡 A developer experience engineer at [Atsign](https://atsign.com)  
+💻 Studying Data Science at Ontario Tech University (with a Math minor!)  
 
 ## 📈 Github Stats
 
