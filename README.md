@@ -4,7 +4,7 @@
 ### My name is Xavier Chanthavong, and I ...
 
 >🧡 am a developer experience engineer at [Atsign](https://atsign.com)  
-💻 am in my final semester of Data Science at Ontario Tech University
+💻 am in my final semester of Data Science at Ontario Tech University  
 🔧 love to build tooling and meta programs (see my featured projects below)
 
 ## 📈 Github Stats
