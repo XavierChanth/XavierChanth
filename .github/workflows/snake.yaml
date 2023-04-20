@@ -3,7 +3,8 @@ name: Snake
 on:
   schedule:
     - cron: '55 4 * * *' # 4:43 daily
-
+  workflow_dispatch:
+    
 jobs:
   backup:
     runs-on: ubuntu-20.04
