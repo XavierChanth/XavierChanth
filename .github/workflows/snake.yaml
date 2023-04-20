@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     
 jobs:
-  backup:
+  snake:
     runs-on: ubuntu-20.04
     steps:
       - uses: Platane/snk/svg-only@v2
