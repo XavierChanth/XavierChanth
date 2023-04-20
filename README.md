@@ -4,13 +4,19 @@
 ### My name is Xavier Chanthavong, and I ...
 
 >💻 am an engineer at [Atsign](https://atsign.com)  
-📚 am in my final semester of Data Science at Ontario Tech University  
+📚 have just finished my last semester of Data Science at Ontario Tech University!  
 ⚙️ love to build tooling and meta programs (see my featured projects below)
 
 ## 📈 Github Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=xavierchanth&show_icons=true&locale=en&theme=tokyonight&hide_border=true&line_height=29&hide=stars)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=xavierchanth&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&hide=html,dockerfile)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ## 🛠 Tools and Tech
 
