@@ -3,7 +3,7 @@
 
 ### My name is Xavier Chanthavong, and I ...
 
->💻 am an engineer at [Atsign](https://atsign.com)  
+>💻 am a solutions engineer at [Atsign](https://atsign.com)  
 📚 have just finished my last semester of Data Science at Ontario Tech University!  
 ⚙️ love to build tooling and meta programs (see my featured projects below)
 
