@@ -12,12 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=xavierchanth&show_icons=true&locale=en&theme=tokyonight&hide_border=true&line_height=29&hide=stars)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=xavierchanth&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&hide=html,dockerfile)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XavierChanth/XavierChanth/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XavierChanth/XavierChanth/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/XavierChanth/XavierChanth/output/github-contribution-grid-snake.svg">
-</picture>
-
 ## 🛠 Tools and Tech
 
 ### Things I'm using now:
