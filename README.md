@@ -9,10 +9,10 @@
 
 ## 📈 Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=xavierchanth&show_icons=true&locale=en&hide_border=true&line_height=29&hide=stars&bg_color=00000000&theme=default#gh-light-mode-only)
-![](https://github-readme-stats.vercel.app/api?username=xavierchanth&show_icons=true&locale=en&hide_border=true&line_height=29&hide=stars&bg_color=00000000&theme=dark#gh-dark-mode-only)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=xavierchanth&show_icons=true&locale=en&layout=compact&hide_border=true&langs_count=8&count_private=true&hide=html,dockerfile&bg_color=00000000&theme=default#gh-light-mode-only)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=xavierchanth&show_icons=true&locale=en&layout=compact&hide_border=true&langs_count=8&count_private=true&hide=html,dockerfile&bg_color=00000000&theme=dark#gh-dark-mode-only)
+[![](https://github-readme-stats.vercel.app/api?username=xavierchanth&show_icons=true&locale=en&hide_border=true&line_height=29&hide=stars&bg_color=00000000&theme=default#gh-light-mode-only)](#gh-light-mode-only)
+[![](https://github-readme-stats.vercel.app/api?username=xavierchanth&show_icons=true&locale=en&hide_border=true&line_height=29&hide=stars&bg_color=00000000&theme=dark#gh-dark-mode-only)](#gh-dark-mode-only)
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=xavierchanth&show_icons=true&locale=en&layout=compact&hide_border=true&langs_count=8&count_private=true&hide=html,dockerfile&bg_color=00000000&theme=default#gh-light-mode-only)](#gh-light-mode-only)
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=xavierchanth&show_icons=true&locale=en&layout=compact&hide_border=true&langs_count=8&count_private=true&hide=html,dockerfile&bg_color=00000000&theme=dark#gh-dark-mode-only)](#gh-dark-mode-only)
 
 <!-- ## 🛠 Tools and Tech
 
