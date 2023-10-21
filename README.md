@@ -1,11 +1,14 @@
 
 # 👋 Hi There!
 
-### My name is Xavier Chanthavong, and I ...
+My name is Xavier Chanthavong, and I have a B.Sc. in Computer Science, specializing in Data Science with a minor in Mathematics from Ontario Tech University.  
 
->💻 am a solutions engineer at [Atsign](https://atsign.com)  
-📚 have a B.Sc. in Data Science from Ontario Tech University!  
-⚙️ love to code!
+## My Background
+During the first half of my degree, I spent my free time pursuing freelancing clients, and learning modern web development frameworks in NodeJS.
+During the upper years of my degree, I worked part-time at [Atsign](https://atsign.com) and I have been a solutions engineer with them since I graduated in May 2023. 
+
+## My work
+A majority of my NodeJS work is closed source at the request of my clients, but you can check out all of the work I've been doing with Atsign, see the pins below!
 
 ## 📈 Github Stats
 
