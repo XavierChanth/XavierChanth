@@ -12,10 +12,10 @@ A majority of my NodeJS work is closed source at the request of my clients, but 
 
 ## 📈 Github Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=xavierchanth&show_icons=true&hide_title&hide_border=true&line_height=29&hide=stars&bg_color=00000000&theme=default#gh-light-mode-only)](#gh-light-mode-only)
-[![](https://github-readme-stats.vercel.app/api?username=xavierchanth&show_icons=true&hide_border=true&line_height=29&hide=stars&bg_color=00000000&theme=dark#gh-dark-mode-only)](#gh-dark-mode-only)
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=xavierchanth&show_icons=true&layout=compact&hide_border=true&langs_count=8&count_private=true&hide=html,dockerfile&bg_color=00000000&theme=default#gh-light-mode-only)](#gh-light-mode-only)
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=xavierchanth&show_icons=true&layout=compact&hide_border=true&langs_count=8&count_private=true&hide=html,dockerfile&bg_color=00000000&theme=dark#gh-dark-mode-only)](#gh-dark-mode-only)
+[![](https://github-readme-stats.vercel.app/api?username=xavierchanth&show_icons=true&hide_title=true&hide_border=true&line_height=29&hide=stars&bg_color=00000000&theme=default#gh-light-mode-only)](#gh-light-mode-only)
+[![](https://github-readme-stats.vercel.app/api?username=xavierchanth&show_icons=true&hide_title=true&hide_border=true&line_height=29&hide=stars&bg_color=00000000&theme=dark#gh-dark-mode-only)](#gh-dark-mode-only)
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=xavierchanth&show_icons=true&hide_title=true&layout=compact&hide_border=true&langs_count=8&count_private=true&hide=html,dockerfile&bg_color=00000000&theme=default#gh-light-mode-only)](#gh-light-mode-only)
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=xavierchanth&show_icons=true&hide_title=true&layout=compact&hide_border=true&langs_count=8&count_private=true&hide=html,dockerfile&bg_color=00000000&theme=dark#gh-dark-mode-only)](#gh-dark-mode-only)
 
 <!-- ## 🛠 Tools and Tech
 
