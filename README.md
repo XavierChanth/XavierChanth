@@ -24,7 +24,6 @@ My workflow is primarily keyboard based and [open-source](https://github.com/xav
 ### Editor
 
 [![](https://img.shields.io/badge/Editor-Neovim-Informational?style=for-the-badge&color=blue&logo=neovim)](https://neovim.io)
-[![](https://img.shields.io/badge/Framework-LazyVim-Informational?style=for-the-badge&color=blue&logo=lazyvim)](https://www.lazyvim.org)
 [![](https://img.shields.io/badge/Git_Client-LazyGit-Informational?style=for-the-badge&color=blue)](https://github.com/jesseduffield/lazygit)
 
 ### Terminal
