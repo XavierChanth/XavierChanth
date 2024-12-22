@@ -21,16 +21,12 @@ I'm building an open-source tool called [NoPorts](https://noports.com), you can 
 
 My workflow is primarily keyboard based and [open-source](https://github.com/xavierchanth/dotfiles)!
 
-### Editor
-
-[![](https://img.shields.io/badge/Editor-Neovim-Informational?style=for-the-badge&color=blue&logo=neovim)](https://neovim.io)
-[![](https://img.shields.io/badge/Git_Client-LazyGit-Informational?style=for-the-badge&color=blue)](https://github.com/jesseduffield/lazygit)
-
-### Terminal
+### Core
 
 [![](https://img.shields.io/badge/Emulator-WezTerm-Informational?style=for-the-badge&color=blue&logo=wezterm)](https://wezfurlong.org/wezterm/)
 [![](https://img.shields.io/badge/Multiplexer-tmux-Informational?style=for-the-badge&color=blue&logo=tmux)](https://github.com/tmux/tmux/wiki)
 [![](https://img.shields.io/badge/Shell-zsh-Informational?style=for-the-badge&color=blue&logo=zsh)](https://zsh-manual.netlify.app)
+[![](https://img.shields.io/badge/Editor-Neovim-Informational?style=for-the-badge&color=blue&logo=neovim)](https://neovim.io)
 
 ### Homelab
 
