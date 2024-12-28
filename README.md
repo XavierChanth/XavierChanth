@@ -24,7 +24,7 @@ My workflow is primarily keyboard based and [open-source](https://github.com/xav
 
 ### Core
 
-[![](https://img.shields.io/badge/Terminal_Emulator-WezTerm-Informational?style=for-the-badge&color=blue&logo=wezterm)](https://wezfurlong.org/wezterm/)
+[![](https://img.shields.io/badge/Terminal_Emulator-Ghostty-Informational?style=for-the-badge&color=blue&logo=ghostty)](https://ghostty.org)
 [![](https://img.shields.io/badge/Multiplexer-tmux-Informational?style=for-the-badge&color=blue&logo=tmux)](https://github.com/tmux/tmux/wiki)
 [![](https://img.shields.io/badge/Shell-zsh-Informational?style=for-the-badge&color=blue&logo=zsh)](https://zsh-manual.netlify.app)
 [![](https://img.shields.io/badge/Editor-Neovim-Informational?style=for-the-badge&color=blue&logo=neovim)](https://neovim.io)
@@ -34,7 +34,7 @@ My workflow is primarily keyboard based and [open-source](https://github.com/xav
 [![](https://img.shields.io/badge/Cluster-Proxmox-Informational?style=for-the-badge&color=blue&logo=proxmox)](https://www.proxmox.com/en/)
 [![](https://img.shields.io/badge/Cluster_Hardware-3x_Beelink_SER5_AMD_5800H_64Gb-Informational?style=for-the-badge&color=blue&logo=proxmox)](https://www.proxmox.com/en/)  
 [![](https://img.shields.io/badge/NFS-TrueNAS-Informational?style=for-the-badge&color=blue&logo=truenas)](https://www.truenas.com)
-[![](https://img.shields.io/badge/Router-GL.iNet_GLMT6000-Informational?style=for-the-badge&color=blue&logo=truenas)](https://www.gl-inet.com/products/gl-mt6000/)
+[![](https://img.shields.io/badge/Router-GL.iNet_GLMT6000-Informational?style=for-the-badge&color=blue&logo=openwrt)](https://www.gl-inet.com/products/gl-mt6000/)
 
 ### Desktop
 
