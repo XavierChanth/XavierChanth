@@ -12,7 +12,7 @@ I'm building an open-source tool called [NoPorts](https://noports.com), you can 
 ## 📈 Github Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xavierchanth&show_icons=true&hide_title=true&hide_border=true&line_height=29&hide=stars&theme=default)
-[![GitHub Streak](https://streak-stats.demolab.com?user=xavierchanth&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=xavierchanth&hide_border=true)
 
 <!-- Disabled language stats, it's not reflective of my actual work & experience -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs?username=xavierchanth&show_icons=true&hide_title=true&layout=compact&hide_border=true&langs_count=8&count_private=true&hide=html,dockerfile&bg_color=00000000) -->
