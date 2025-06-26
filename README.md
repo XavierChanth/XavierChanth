@@ -29,29 +29,45 @@ My workflow is primarily keyboard based and [open-source](https://github.com/xav
 [![](https://img.shields.io/badge/Shell-zsh-Informational?style=for-the-badge&color=blue&logo=zsh)](https://zsh-manual.netlify.app)
 [![](https://img.shields.io/badge/Editor-Neovim-Informational?style=for-the-badge&color=blue&logo=neovim)](https://neovim.io)
 
+
+My core workflow tools are based around zsh and tmux, with neovim as my editor of choice. I've made a number of enhancements which can be found in my configuration, most notably:
+
+- Running tmux server headlessly outside of any Linux sessions so that it can be shared across sessions, and survives session logouts.
+- Per-session zsh history in tmux, which is created from main history at the start of a session and gets merged into the main history at the end of a session.
+- A whole bunch of keybinds for managing tmux nicer, and mapping of `hyper+<key>` to a bunch of tmux commands in ghostty, (My CAPS key is always bound to escape on tap, hyper on hold).
+
 ### Homelab
 
 [![](https://img.shields.io/badge/Cluster-Proxmox-Informational?style=for-the-badge&color=blue&logo=proxmox)](https://www.proxmox.com/en/)
-[![](https://img.shields.io/badge/Cluster_Hardware-3x_Beelink_SER5_AMD_5800H_64Gb-Informational?style=for-the-badge&color=blue&logo=proxmox)](https://www.proxmox.com/en/)  
+[![](https://img.shields.io/badge/Cluster_Hardware-3x_Beelink_SER5_AMD_5800H_64Gb-Informational?style=for-the-badge&color=blue&logo=proxmox)]([https://www.proxmox.com/en/](https://www.bee-link.com/))  
 [![](https://img.shields.io/badge/NFS-TrueNAS-Informational?style=for-the-badge&color=blue&logo=truenas)](https://www.truenas.com)
-[![](https://img.shields.io/badge/Router-GL.iNet_GLMT6000-Informational?style=for-the-badge&color=blue&logo=openwrt)](https://www.gl-inet.com/products/gl-mt6000/)
+[![](https://img.shields.io/badge/Router-Gli.Net_Flint_2-Informational?style=for-the-badge&color=blue&logo=openwrt)](https://www.gl-inet.com/products/gl-mt6000/)
+![](https://img.shields.io/badge/Standalone-Apple_Mac_Mini_M4-Informational?style=for-the-badge&color=blue&logo=apple)
 
-### Desktop
+My homelab runs a three node mini-pc cluster, the Flint 2 manages VLANs and I have a dedicated VLAN for ceph. I use a semi-managed switch with port base VLAN assignment so that I can have a dedicated NIC for ceph on each mini PC, and control the traffic for it independently from the rest of my network. The Mac Mini serves as my access to Mac, as I've given away my Macbook Pro. I was tired of MacOS enshittification, and kanata uses 3rd-party drivers that have to be manually installed, so that meant every MacOS update would break my workflow until I manually update the drivers. VNC from Remmina gets the job done of getting me access to my Mac Mini when I need to do MacOS/iOS development, or SSH if I'm developing non-GUI software. Same kind of story for Windows development, but I tend to use my gaming PC nowadays, Windows performance in Proxmox tends to be super slow, even when throwing a ton of resources at it (well, Windows in general is just slow, it's just slower when virtualized). When I'm away from home, I use NoPorts to get access to everything behind this router. I've used this to reach my homelab in the backseat of a car, and even from the other side of the planet.
+
+### Personal Computer
 
 #### Hardware
 
-![](https://img.shields.io/badge/Laptop-Macbook_M1_Pro_14-Informational?style=for-the-badge&color=blue&logo=apple)
+[![](https://img.shields.io/badge/Laptop-Framework_13_Ryzen_AI_9-Informational?style=for-the-badge&color=blue&logo=framework)](https://frame.work)
 [![](https://img.shields.io/badge/Keyboard-ZSA_Voyager-Informational?style=for-the-badge&color=blue)](https://www.zsa.io/voyager)
+[![](https://img.shields.io/badge/Pointer-Apple_Magic_Trackpad-Informational?style=for-the-badge&color=blue&logo=apple)](https://www.apple.com/shop/product/MXKA3AM/A/magic-trackpad-usb%E2%80%91c-black-multi-touch-surface)
+
+A single USB C cable with a cheap "Mag safe" adapter is all it takes to hook my Laptop up to my desk. On my desk lives the ZSA Voyager - a split ortholinear keyboard, with an Apple magic trackpad between each side. When I first got the Voyager, I would spend 20-40 minutes typing on it each morning and afternoon until I got reasonably close to my normal speed. It was worth learning, typing on this thing feels way smoother than a staggered layout, and I touch-type with far less mistakes.
 
 #### Software
 
-![](https://img.shields.io/badge/OS-MacOS-Informational?style=for-the-badge&color=blue&logo=apple)
-[![](https://img.shields.io/badge/Window_Manager-Aerospace-Informational?style=for-the-badge&color=blue)](https://github.com/nikitabobko/AeroSpace)
-[![](https://img.shields.io/badge/Status_Bar-SketchyBar-Informational?style=for-the-badge&color=blue&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMTE1LjE2cHQiIGhlaWdodD0iMTE1LjE2cHQiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDExNS4xNiAxMTUuMTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6Y2M9Imh0dHA6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL25zIyIgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KPG1ldGFkYXRhPgo8cmRmOlJERj4KPGNjOldvcms+CjxkYzp0eXBlIHJkZjpyZXNvdXJjZT0iaHR0cDovL3B1cmwub3JnL2RjL2RjbWl0eXBlL1N0aWxsSW1hZ2UiLz4KPGRjOmRhdGU+MjAyMS0xMi0yMFQxODoxNjowMy40Mzc2MTI8L2RjOmRhdGU+CjxkYzpmb3JtYXQ+aW1hZ2Uvc3ZnK3htbDwvZGM6Zm9ybWF0Pgo8ZGM6Y3JlYXRvcj4KPGNjOkFnZW50Pgo8ZGM6dGl0bGU+TWF0cGxvdGxpYiB2My4zLjQsIGh0dHBzOi8vbWF0cGxvdGxpYi5vcmcvPC9kYzp0aXRsZT4KPC9jYzpBZ2VudD4KPC9kYzpjcmVhdG9yPgo8L2NjOldvcms+CjwvcmRmOlJERj4KPC9tZXRhZGF0YT4KPGRlZnM+CjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+KntzdHJva2UtbGluZWNhcDpidXR0O3N0cm9rZS1saW5lam9pbjpyb3VuZDt9PC9zdHlsZT4KPHBhdGggaWQ9ImEiIGQ9Im0zOS45MDYgNTV2Mi4yOTY5aC0zNHYtMi4yOTY5eiIvPgo8cGF0aCBpZD0iYiIgZD0ibTYzLjUgNjkuMDk0YzAgMC45MDYyNS0wLjcwMzEyIDAuOTA2MjUtMC45MDYyNSAwLjkwNjI1LTAuMzkwNjIgMC0wLjUtMC4xMDkzOC0xLjY4NzUtMS42MDk0LTAuNjA5MzgtMC43MDMxMi00LjcwMzEtNS44NTk0LTQuODEyNS01Ljk1MzEtMy4yOTY5IDYuNDUzMS05Ljg5MDYgNy41NjI1LTE0LjA5NCA3LjU2MjUtMTIuNzAzIDAtMjQuMjAzLTExLjUzMS0yNC4yMDMtMjIuNzUgMC03LjQ1MzEgNC41LTExLjgxMiA5LjQwNjItMTMuNSAxLjA5MzgtMC40MDYyNSA3LTEuOTg0NCAxMC0yLjY4NzUgNS4wOTM4LTEuMzkwNiA2LjM5MDYtMS43ODEyIDguNS0zLjk2ODggMC4zOTA2Mi0wLjUgMi4zOTA2LTIuNzgxMiAyLjM5MDYtNy40Mzc1IDAtOS4yMzQ0LTguNTkzOC0xOC43NjYtMTguNTk0LTE4Ljc2Ni04LjIwMzEgMC0xNy4yOTcgMy40Njg4LTE3LjI5NyAxNC41OTQgMCAxLjg5MDYgMC4zOTA2MiA0LjI2NTYgMC43MDMxMiA1LjI2NTYgMCAwLjI5Njg4IDAuMDkzNzUgMC43ODEyNSAwLjA5Mzc1IDAuOTg0MzggMCAwLjQwNjI1LTAuMjAzMTIgMC44OTA2Mi0xIDAuODkwNjItMC45MDYyNSAwLTEtMC4xODc1LTEuNDA2Mi0xLjg3NWwtNS4wOTM4LTIwLjM1OWMwLTAuMDkzNzUtMC40MDYyNS0xLjM5MDYtMC40MDYyNS0xLjUgMC0wLjg5MDYyIDAuODEyNS0wLjg5MDYyIDEtMC44OTA2MiAwLjQwNjI1IDAgMC41IDAuMDkzNzUgMS43MDMxIDEuNTkzOGw0LjYwOTQgNS45Njg4YzIuMzkwNi0zLjU3ODEgNy41OTM4LTcuNTYyNSAxNi44OTEtNy41NjI1IDEyLjkwNiAwIDI0LjcwMyAxMi40MjIgMjQuNzAzIDI0LjgyOCAwIDQuMTcxOS0xIDcuODQzOC00Ljc5NjkgMTEuNTE2LTIuMTA5NCAyLjA3ODEtMy45MDYyIDIuNTc4MS0xMy4xMDkgNC45Njg4LTYuNjg3NSAxLjc4MTItNy41OTM4IDIuMDc4MS05LjM5MDYgMy42NzE5LTEuNzAzMSAxLjY4NzUtMyA0LjA2MjUtMyA3LjQzNzUgMCA4LjM0MzggOC41IDE2Ljg3NSAxOCAxNi44NzUgOS43OTY5IDAgMTQuMzkxLTUuOTUzMSAxNC4zOTEtMTUuMzkxIDAtMi41NzgxLTAuNS01LjI1LTAuNS01LjY1NjIgMC0wLjg5MDYyIDAuODEyNS0wLjg5MDYyIDEuMTA5NC0wLjg5MDYyIDAuODkwNjIgMCAxIDAuMjk2ODggMS4zOTA2IDEuODkwNnoiLz4KPC9kZWZzPgo8cGF0aCB4PSI0LjI1MTk2ODQiIHk9IjQuMjUxOTY4NCIgd2lkdGg9IjEwNi42NTYzNyIgaGVpZ2h0PSIxMDYuNjU2MDMiIGQ9Im0xOS4yNTIgNC4yNTJoNzYuNjU2YTE1IDE1IDQ1IDAgMSAxNSAxNXY3Ni42NTZhMTUgMTUgMTM1IDAgMS0xNSAxNWgtNzYuNjU2YTE1IDE1IDQ1IDAgMS0xNS0xNXYtNzYuNjU2YTE1IDE1IDEzNSAwIDEgMTUtMTV6IiBmaWxsPSIjMWExYTFhIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHN0cm9rZT0iIzlkZDI3NCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2Utd2lkdGg9IjguNTAzOSIgc3R5bGU9InBhaW50LW9yZGVyOnN0cm9rZSBtYXJrZXJzIGZpbGwiLz4KPGcgdHJhbnNmb3JtPSJtYXRyaXgoMTEuMzI2IDAgMCAxMS4zMjYgLTMzMjYuMiAtMjEyOC41KSIgZmlsbD0iI2UxZTNlNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+CjxnIHRyYW5zZm9ybT0ibWF0cml4KC4xIDAgMCAtLjEgMjk1LjIgMTk3LjAxKSIgZmlsbD0iI2UxZTNlNCI+Cjx1c2UgdHJhbnNmb3JtPSJtYXRyaXgoLjk5NjI2IDAgMCAuOTk2MjYgMTguMTgxIDI1LjE5KSIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2EiLz4KPHVzZSB0cmFuc2Zvcm09InNjYWxlKC45OTYyNikiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNiIi8+CjwvZz4KPC9nPgo8dGV4dCB4PSIxNjYuNzgxMzEiIHk9IjU1LjM3ODcwNCIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMjJweCIgc3Ryb2tlLXdpZHRoPSIuNzUiIHN0eWxlPSJsaW5lLWhlaWdodDoxLjI1IiB4bWw6c3BhY2U9InByZXNlcnZlIj48dHNwYW4geD0iMTY2Ljc4MTMxIiB5PSI1NS4zNzg3MDQiIHN0cm9rZS13aWR0aD0iLjc1Ii8+PC90ZXh0Pgo8L3N2Zz4K)](https://github.com/FelixKratz/SketchyBar)
+[![](https://img.shields.io/badge/OS-Arch-Informational?style=for-the-badge&color=blue&logo=archlinux)](https://wiki.archlinux.org/title/Main_page)
+[![](https://img.shields.io/badge/Window_Manager-Sway-Informational?style=for-the-badge&color=blue)](https://swaywm.org/)
+[![](https://img.shields.io/badge/Status_Bar-Waybar-Informational?style=for-the-badge&color=blue)](https://github.com/Alexays/Waybar)
+[![](https://img.shields.io/badge/Launcher-Wofi-Informational?style=for-the-badge&color=blue)](https://github.com/SimplyCEO/wofi)
+
+Super plain setup, as simple as it gets. Tmux is almost enough to be my OS. Sway is pretty much a launcher for terminal windows, my browser, zoom, spotify, and remmina. My Waybar has three hide-away modules which contain app tray icons, system usage stats, and controls (like wifi, bluetooth, volume).
 
 ### Languages & Frameworks
 
-I have used a lot of languages and I'm proficient at learning good practices quickly. This list is ordered by current proficiency:
+I have used a number of languages and I consider myself proficient at learning language idioms quickly. This list is ordered by current proficiency (last updated 2025-06-26):
 
 | Language | Framework(s) |
 | - | - |
