@@ -76,7 +76,7 @@ I have used a number of languages and I consider myself proficient at learning l
 | ![](https://img.shields.io/badge/Lua-Informational?style=for-the-badge&color=gray&logoColor=white&logo=lua) | |
 | ![](https://img.shields.io/badge/C99-Informational?style=for-the-badge&color=gray&logoColor=white&logo=c) | |
 | ![](https://img.shields.io/badge/Go-Informational?style=for-the-badge&color=gray&logoColor=white&logo=go) | ![](https://img.shields.io/badge/Wish-Informational?style=for-the-badge&color=gray) ![](https://img.shields.io/badge/BubbleTea-Informational?style=for-the-badge&color=gray) |
-| ![](https://img.shields.io/badge/Python-Informational?style=for-the-badge&color=gray&logoColor=white&logo=python) | |
+| ![](https://img.shields.io/badge/Python-Informational?style=for-the-badge&color=gray&logoColor=white&logo=python) | ![](https://img.shields.io/badge/Cython-Informational?style=for-the-badge&color=gray&logoColor=white&logo=cython)  |
 | ![](https://img.shields.io/badge/JavaScript-Informational?style=for-the-badge&color=gray&logoColor=white&logo=node.js) | ![](https://img.shields.io/badge/React-Informational?style=for-the-badge&color=gray&logoColor=white&logo=react) ![](https://img.shields.io/badge/Svelte-Informational?style=for-the-badge&color=gray&logoColor=white&logo=svelte) |
 | ![](https://img.shields.io/badge/C++-Informational?style=for-the-badge&color=gray&logoColor=white&logo=cplusplus) | |
 | ![](https://img.shields.io/badge/C%23-Informational?style=for-the-badge&color=gray) | |
